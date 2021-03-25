@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Cursos\Programación funcional en Java con Lambdas y Streams - Domingo Sebastián\ProgramacionFuncional\.metadata\.plugins\org.eclipse.jdt.core
+3439400384.index
+3203899187.index
+1376268921.index
+3753498891.index
